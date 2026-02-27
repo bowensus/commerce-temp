@@ -27,7 +27,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video src="https://raw.githubusercontent.com/bowensus/commerce-temp/main/asserts/sample.mp4" controls width="600"></video>
+<video src="/sample.mp4" controls width="600"></video>
 
 ---
 
@@ -45,7 +45,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video src="https://raw.githubusercontent.com/bowensus/commerce-temp/main/asserts/function.mp4" controls width="600"></video>
+<video src="/function.mp4" controls width="600"></video>
 
 ---
 
