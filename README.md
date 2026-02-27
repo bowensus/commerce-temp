@@ -27,9 +27,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video autoplay muted loop playsinline>
-  <source src="/sample.mp4" type="video/mp4">
-</video>
+https://raw.githubusercontent.com/bowensus/commerce-temp/main/asserts/sample.mp4
 
 ---
 
@@ -47,9 +45,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video autoplay muted loop playsinline>
-  <source src="/function.mp4" type="video/mp4">
-</video>
+🎥 [点击播放演示视频](https://raw.githubusercontent.com/bowensus/commerce-temp/main/asserts/function.mp4)
 
 ---
 
