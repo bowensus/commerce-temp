@@ -53,6 +53,21 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ---
 
+---
+
+## 📦 源代码
+
+⚡ 本项目为部分开源项目，核心功能已展示。
+
+你可以查看公开的代码部分：
+
+🔗 GitHub Repository  
+<a href="https://github.com/bowensus/commerce-temp" target="_blank">
+👉 查看公开源码
+</a>
+
+⚠ 关键业务逻辑与可复用UI组件未完全公开。
+
 ## Getting Started
 
 First, run the development server:
