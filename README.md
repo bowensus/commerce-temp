@@ -27,16 +27,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video
-width="700"
-autoplay
-muted
-loop
-controls
-playsinline
-src="/asserts/sample.mp4"
-
-> </video>
+<video width="700" controls>
+  <source src="https://raw.githubusercontent.com/bowensus/commerce-temp/main/public/asserts/sample.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -54,8 +47,8 @@ src="/asserts/sample.mp4"
 
 演示视频：
 
-<video width="700" autoplay muted loop controls playsinline>
-  <source src="/asserts/function.mp4" type="video/mp4" />
+<video width="700" controls>
+  <source src="https://raw.githubusercontent.com/bowensus/commerce-temp/main/public/asserts/function.mp4" type="video/mp4">
 </video>
 
 ---
