@@ -27,7 +27,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video src="/sample.mp4" controls width="600"></video>
+<video autoplay muted loop playsinline>
+  <source src="/sample.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -45,7 +47,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 演示视频：
 
-<video src="/function.mp4" controls width="600"></video>
+<video autoplay muted loop playsinline>
+  <source src="/function.mp4" type="video/mp4">
+</video>
 
 ---
 

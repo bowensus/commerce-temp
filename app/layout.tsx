@@ -1,8 +1,11 @@
 // app/layout.tsx
 
-import { ReactNode } from 'react';
-import LayoutClient from '@/app/_components/sections/LayoutClient';
+import { ReactNode } from "react";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
-  return <LayoutClient>{children}</LayoutClient>;
+  return (
+    <html>
+      <body>{children}</body>
+    </html>
+  );
 }
